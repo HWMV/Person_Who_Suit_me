@@ -10,6 +10,8 @@
 
 * 관상, 화법을 Type 별로 분류하고 데이터화 하여 대화 시뮬레이터 만들기
 ---
+
+
 ## 2. 팀 소개
 ---
 |최현우|
@@ -17,6 +19,7 @@
 <img src="my_face.jpeg" width="150" height="200"/>
 
 ---
+
 
 ## 3. 프로젝트 소개 (진행 이유)
 ---
@@ -34,12 +37,15 @@
 * 대화의 분쟁, 관계의 회복에서도 복기를 해보거나 연습을 하여 사람들 간의 관계가 대화를 통하여 좋아졌으면 하는 바램입니다.
 ---
 
+
 ## 4. 기술 스택
 ---
 <img src="language_python.png" width="70" height="35"/>
 <img src="aws_server.png" width="70" height="35"/>
 <img src="DB_mysql.png" width="70" height="35"/>
+
 ---
+
 
 ## 5. 주요 기능
 ---
