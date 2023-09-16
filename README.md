@@ -2,7 +2,7 @@
 
 ---
 ## PROJECT LOGO
-<img src="스크린샷 2023-09-16 오후 4.27.16.png" width="100%" height="100%"/>
+<img src="./Image/스크린샷 2023-09-16 오후 4.27.16.png" width="100%" height="100%"/>
 
 ## 1. 프로젝트 정보
 ---
@@ -16,7 +16,7 @@
 ---
 |최현우|
 
-<img src="my_face.jpeg" width="150" height="200"/>
+<img src="./Image/my_face.jpeg" width="150" height="200"/>
 
 ---
 
@@ -40,9 +40,9 @@
 
 ## 4. 기술 스택
 ---
-<img src="language_python.png" width="70" height="35"/>
-<img src="aws_server.png" width="70" height="35"/>
-<img src="DB_mysql.png" width="70" height="35"/>
+<img src="./Image/language_python.png" width="70" height="35"/>
+<img src="./Image/aws_server.png" width="70" height="35"/>
+<img src="./Image/DB_mysql.png" width="70" height="35"/>
 
 ---
 
