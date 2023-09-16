@@ -2,13 +2,14 @@
 
 ---
 ### 프로젝트 로고 or 이미지
+![PROJECTI Logo](![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "PROJECT LOGO")"PROJECT LOGO"){: width="100%" height="100%"}
 
 ## 1. 프로젝트 정보
 
 ## 2. 팀 소개
 ---
-| 이름 | 사진 | 이력 |
-|최현우|![alt text](/my_face.jpeg)| 없 음..
+|최현우|
+![alt text](/my_face.jpeg){: width="150" height="150"}
 ---
 ## 3. 프로젝트 소개 (진행 이유)
 ---
