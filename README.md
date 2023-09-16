@@ -1,7 +1,7 @@
 # person_who_suit_me
 
 ---
-### 프로젝트 로고 or 이미지
+## PROJECT LOGO
 <img src="스크린샷 2023-09-16 오후 4.27.16.png" width="100%" height="100%"/>
 
 ## 1. 프로젝트 정보
@@ -15,6 +15,7 @@
 |최현우|
 
 <img src="my_face.jpeg" width="150" height="200"/>
+
 ---
 
 ## 3. 프로젝트 소개 (진행 이유)
@@ -39,6 +40,7 @@
 <img src="aws_server.png" width="70" height="35"/>
 <img src="DB_mysql.png" width="70" height="35"/>
 ---
+
 ## 5. 주요 기능
 ---
 * **Text To Sentence**, **Image To Text**, **Text To Text** Using the API, create an avatar that can be simulated by configuring existing physiognomy data and data on speaking style, and then chat with the avatar. As we proceed, we try to recreate a more perfect situation.
