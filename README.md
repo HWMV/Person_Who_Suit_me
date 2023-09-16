@@ -49,10 +49,25 @@
 
 ## 5. 주요 기능
 ---
+
 * **Text To Sentence**, **Image To Text**, **Text To Text** Using the API, create an avatar that can be simulated by configuring existing physiognomy data and data on speaking style, and then chat with the avatar. As we proceed, we try to recreate a more perfect situation.
 
+* The reason for using physiognomy is to make a more accurate diagnosis through the image shown by the other person in conversation as it contains information about a person's past.
+
+* The purpose of converting speech into data is to diagnose the degree of matching with the other person by thinking that the speech itself is an important indicator in a relationship because it is a way to express to the other person differently from one's feelings.
+
+* We plan to add a feature related to 'facial expressions' in the future so that you can receive reactions in real time during conversations with avatars.
+
+* 관상학을 사용하는 이유는 사람의 과거가 담겨져 있는 정보로써 대화에서 상대에게서 보여지는 이미지를 통하여 더욱 정확한 진단을 위함입니다.
+
+* 화법을 데이터화 하려는 것은 화법 자체는 마음과 다르게도 상대에게 표현할 수 있는 방법이기에 관계에서 중요한 지표라 생각하여 데이터화 해서 상대와 매칭 정도를 진단하기 위함입니다.
+
 * **Text To Sentence**, **Image To Text**, **Text To Text** API를 이용하여 현존 하는 관상학 데이터와 화법에 관한 데이터를 구성하여 시뮬레이션 할 수 있는 아바타 생성 후 해당 아바타와 대화를 진행해 보면서 더욱 완벽한 상황을 재연해 봅니다.
+
+* 추후 '표정'에 관한 기능도 추가하여 아바타와의 대화에서 실시간으로 리액션을 받아볼 수 있게 구현할 예정입니다.
+
 ---
+
  ---
  1. Check my physiognomy type and speaking type
  2. Create my avatar
@@ -61,7 +76,6 @@
  5. Conversation simulation progress
  6. Check for improvements and suitability to better suit the        opponent type
  ---
-
  ---
  1. 나의 관상 Type, 화법 Type 확인
  2. 나의 아바타 생성
@@ -70,6 +84,7 @@
  5. 대화 시뮬레이션 진행
  6. 상대 유형에 더욱 맞출 수 있는 개선점 및 적합성 확인
  ---
+
 
 ## 6. 아키텍처 (분할형 아키텍처)
 ---
