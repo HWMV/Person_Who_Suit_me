@@ -86,10 +86,12 @@
 
 <img src="./Image/FlowChart.jpg" width="100%" height="100%"/>
 
+* 데이터세트 CSV 파일 예시 
+  (심리상담 챗봇 제작 경험을 살려 보려고 합니다!)
 <img src="./Image/csv 샘플.png" width="70%" height="70%"/>
----
+
 
 ## 7. 사용할 수 있는 비전
 ---
-
+* 추후 기재 예정!
 ---
