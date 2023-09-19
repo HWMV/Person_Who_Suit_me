@@ -44,7 +44,9 @@
 <img src="./Image/aws_server.png" width="70" height="35"/>
 <img src="./Image/DB_mysql.png" width="70" height="35"/>
 
-# 모델 : Teachable Model (google) , LLM (Large language Model)
+# 모델
+# Teachable Model (google)
+# LLM (Large language Model)
 
 ---
 
@@ -76,15 +78,15 @@
 ## 6. FlowChart 및 세부 기능
 ---
 
-<img src="./Image/관상의 분류 이미지.jpg" width="100%" height="100%"/>
-
 <img src="./Image/성격의 유형 이미지.jpg" width="100%" height="100%"/>
+
+<img src="./Image/관상의 분류 이미지.jpg" width="100%" height="100%"/>
 
 <img src="./Image/데이터구조.jpg" width="100%" height="100%"/>
 
 <img src="./Image/FlowChart.jpg" width="100%" height="100%"/>
 
-<img src="./Image/스크린샷 2023-09-16 오후 4.27.16.png" width="50%" height="50%"/>
+<img src="./Image/csv 샘플.png" width="70%" height="70%"/>
 ---
 
 ## 7. 사용할 수 있는 비전
