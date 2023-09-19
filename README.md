@@ -44,6 +44,8 @@
 <img src="./Image/aws_server.png" width="70" height="35"/>
 <img src="./Image/DB_mysql.png" width="70" height="35"/>
 
+# 모델 : Teachable Model (google) , LLM (Large language Model)
+
 ---
 
 
@@ -68,28 +70,23 @@
 
 ---
 
- ---
- 1. Check my physiognomy type and speaking type
- 2. Create my avatar
- 3. Enter the opponent’s physiognomy type and speech type.
- 4. Create the opponent's avatar
- 5. Conversation simulation progress
- 6. Check for improvements and suitability to better suit the        opponent type
- ---
- ---
- 1. 나의 관상 Type, 화법 Type 확인
- 2. 나의 아바타 생성
- 3. 상대의 관상 Type, 화법 Type 입력
- 4. 상대의 아바타 생성
- 5. 대화 시뮬레이션 진행
- 6. 상대 유형에 더욱 맞출 수 있는 개선점 및 적합성 확인
- ---
+ 
 
 
-## 6. 아키텍처 (분할형 아키텍처)
+## 6. FlowChart 및 세부 기능
 ---
 
+<img src="./Image/관상의 분류 이미지.jpg" width="100%" height="100%"/>
+
+<img src="./Image/성격의 유형 이미지.jpg" width="100%" height="100%"/>
+
+<img src="./Image/데이터구조.jpg" width="100%" height="100%"/>
+
+<img src="./Image/FlowChart.jpg" width="100%" height="100%"/>
+
+<img src="./Image/스크린샷 2023-09-16 오후 4.27.16.png" width="50%" height="50%"/>
 ---
+
 ## 7. 사용할 수 있는 비전
 ---
 
