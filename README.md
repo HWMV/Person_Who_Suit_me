@@ -8,7 +8,7 @@
 ---
 * Create a conversation simulator by classifying physiognomy and speaking methods by type and converting them into data.
 
-* 관상, 화법을 Type 별로 분류하고 데이터화 하여 대화 시뮬레이터 만들기
+* 관상, 화법을 Type 별로 분류하고 데이터화 하여 나만의 청자를 만들어 가상 챗봇 만들기
 ---
 
 
